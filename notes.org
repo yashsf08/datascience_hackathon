@@ -1,0 +1,11 @@
+
+
+
+* Calculate aggregation of transaction features
+* Models to use (from sklearn.ensemble)
+  - Random Forest Calssifier
+  - GradientBoosing Classifier
+  - xGBoosting
+** Team of working
+   - Bhag
+
